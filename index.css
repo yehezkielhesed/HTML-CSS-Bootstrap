@@ -1,0 +1,17 @@
+p {
+    color: chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.text, .text2 {
+    text-decoration: underline;
+    font-size: large;
+}
+.content > div > .text.text2 {
+    text-transform: uppercase;
+}
+#hello {
+    font-weight: bolder;
+}
+.table1, th, td {
+    border: 1px solid black;
+}
